@@ -1,0 +1,3 @@
+"""
+Win-Manager CLI Package
+"""
